@@ -57,10 +57,6 @@ E colocar essa senha
  
 
 
-## ScreenShot
-
-![screenshot](screenshot.png)
-
 
 ## Desenvolvedores do projeto
 
