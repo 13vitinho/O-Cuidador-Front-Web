@@ -1,8 +1,68 @@
-# React + Vite
+![image](https://github.com/13vitinho/O-Cuidador-Front-Web/assets/127214933/82fab8e8-a1ca-41b7-8899-338bd7de5572)
+# O Cuidador
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site desenvolvido para o projeto O Cuidador
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Rodar localmente
+
+Clone o projeto
+
+```
+  git clone https://github.com/13vitinho/O-Cuidador-Front-Web.git
+```
+
+Instale as dependências
+
+```
+  npm install 
+```
+
+Vá até o projeto
+
+```bash
+  cd projeto
+```
+
+Execute o site
+
+```
+  npm run dev
+```
+
+Execute 
+
+```
+ npm run backend
+```
+
+Basta clicar no link localhost e aproveitar o site! :) 
+
+## Teste - Login
+
+Siga as seguintes instruções para entrar no site!
+
+Basta seguir esse usuário
+
+```
+  Admin
+```
+
+E colocar essa senha
+
+```
+  12345
+```
+
+ 
+
+
+## ScreenShot
+
+![screenshot](screenshot.png)
+
+
+## Desenvolvedores do projeto
+
+- Victor Camargo Maciel RM98384
+- Mateus Iago Sousa Conceição RM550270
