@@ -1,4 +1,4 @@
-![image](https://github.com/13vitinho/O-Cuidador-Front-Web/assets/127214933/82fab8e8-a1ca-41b7-8899-338bd7de5572)
+
 # O Cuidador
 
 Site desenvolvido para o projeto O Cuidador
